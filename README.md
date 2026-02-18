@@ -142,8 +142,7 @@ google-generativeai
 Step 1: Get Gemini API Key
 
 Visit:
-
-https://makersuite.google.com/app/apikey
+https://aistudio.google.com/
 
 Step 2: Set Environment Variable
 Windows (PowerShell)
